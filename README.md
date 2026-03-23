@@ -15,3 +15,13 @@ This repository contains my work and exercises from the INRIA Machine Learning M
 
 ## Tools
 Python, Scikit-learn, Jupyter Notebook
+
+## Citation
+```bibtex
+@misc{sklearn_mooc,
+  author = {The scikit-learn MOOC developers},
+  title = {scikit-learn MOOC},
+  year = {2022},
+  doi = {10.5281/zenodo.7220306},
+  url = {https://github.com/INRIA/scikit-learn-mooc}
+}
